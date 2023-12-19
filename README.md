@@ -1,2 +1,2 @@
 # Vision_artificial
-codigos que utiles para la vision artificial 
+codigos utiles para la vision artificial 
