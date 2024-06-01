@@ -1,0 +1,6 @@
+train: /content/drive/Shareddrives/TDG 2023/dataset_v8/train
+val: /content/drive/Shareddrives/TDG 2023/dataset_v8/valid
+
+
+nc: 1
+names: ['ciclyst']
